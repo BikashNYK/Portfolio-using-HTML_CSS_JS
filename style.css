@@ -308,7 +308,7 @@ textarea::placeholder {
     margin-left: 146px;
 }
 
-@media only screen and (max-width: 1140px) {
+@media only screen and (max-width: 1140px ) {
 
     /* body{
         background-color: red;
@@ -384,7 +384,7 @@ textarea::placeholder {
         font-weight: inherit;
     }
         .aboutContainer h1 {
-            font-size: 20px;
+            font-size: 16px;
         }
 
     .skillist ul li {
@@ -392,7 +392,7 @@ textarea::placeholder {
     }
 
     .skillist ul li img {
-            width: 70px;
+            width: 40px;
         }
 
     .form-control {
@@ -413,4 +413,3 @@ textarea::placeholder {
     }
 }
 
-@media only screen and(max-width:800px) {}
