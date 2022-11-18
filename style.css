@@ -11,14 +11,14 @@
 
 
 body {
-    background-image: url(/personal-portfolio-img/images/17973908.jpg);
+    background-image: url(personal-portfolio-img/images/17973908.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .sidebar {
     position: absolute;
-    background-image: url(/personal-portfolio-img/images/hamimage.jpg);
+    background-image: url(personal-portfolio-img/images/hamimage.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
